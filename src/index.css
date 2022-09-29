@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: gray;
+  background-image: url('C:\Users\aamir_d\OneDrive\Desktop\React practice\propage\public\images\17493.jpg');
 }
 
 code {
